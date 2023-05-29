@@ -1,4 +1,4 @@
-package fwdnet
+package forwardnetworks
 
 import (
     "fmt"

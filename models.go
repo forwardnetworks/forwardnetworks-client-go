@@ -1,4 +1,4 @@
-package fwdnet
+package forwardnetworks
 
 type Version struct {
 	Version string `json:"version"`
